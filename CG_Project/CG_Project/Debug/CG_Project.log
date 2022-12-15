@@ -1,0 +1,67 @@
+﻿Build started 12/15/2022 4:24:00 AM.
+     1>Project "c:\Users\ccsmu\documents\visual studio 2012\Projects\CG_Project\CG_Project\CG_Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Desktop\main.cpp
+         main.cpp
+     1>c:\users\ccsmu\desktop\main.cpp(40): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ccsmu\desktop\main.cpp(96): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ccsmu\desktop\main.cpp(101): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(102): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(103): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(104): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(108): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(112): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(114): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(115): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(120): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(125): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(126): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(127): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(128): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(133): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(137): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(138): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(139): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(140): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(146): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(150): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(151): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(152): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(153): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(162): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(163): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(164): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(169): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(170): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(171): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(175): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(176): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(177): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(178): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(182): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(183): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(184): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(185): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(189): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(191): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(192): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(196): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(197): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(198): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(199): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(218): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ccsmu\desktop\main.cpp(256): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\ccsmu\desktop\main.cpp(676): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(677): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(680): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ccsmu\desktop\main.cpp(681): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ccsmu\documents\visual studio 2012\Projects\CG_Project\Debug\CG_Project.exe" /INCREMENTAL /NOLOGO GLAUX.lib GLU32.lib glut.lib OPENGL32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\ccsmu\documents\visual studio 2012\Projects\CG_Project\Debug\CG_Project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ccsmu\documents\visual studio 2012\Projects\CG_Project\Debug\CG_Project.lib" /MACHINE:X86 Debug\main.obj
+         Debug\math3d.obj
+         CG_Project.vcxproj -> c:\users\ccsmu\documents\visual studio 2012\Projects\CG_Project\Debug\CG_Project.exe
+     1>Done Building Project "c:\Users\ccsmu\documents\visual studio 2012\Projects\CG_Project\CG_Project\CG_Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.21
